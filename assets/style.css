@@ -1,0 +1,29 @@
+body {
+  background-image: url(bg.png);
+}
+div{
+    font-family: 'Lato', sans-serif;
+    font-size:16px;
+}
+header{
+    font-size:40px;
+    font-family:'Ranchers', cursive;
+}
+.future{
+    font-style: italic;
+}
+.nav-item{
+    font-size:20px;
+    font-family: 'Lato', sans-serif;}
+}
+.row {
+    margin: 0 auto;
+}
+.col-md-4 {
+    border-width: 1px;
+    border-color:black;
+    border-style: solid;
+}
+hr { 
+    background-color: black;
+}
